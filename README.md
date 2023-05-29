@@ -9,3 +9,5 @@ switchbox_ARCA</br>
 
 ![image](https://github.com/bdincerTrader/switchbox_ARCA/assets/127531384/49b07076-2c63-4ae1-b94f-6535e824647b)
 
+
+![image](https://github.com/bdincerTrader/switchbox_ARCA/assets/127531384/80e7b4b7-9845-4ca3-b6c0-ac069212fcd0)
